@@ -1,3 +1,3 @@
-import HitCounter from './HItCounter'
+export  * from './HitCounter'
 
-export default HitCounter
+export {default} from './HitCounter'
